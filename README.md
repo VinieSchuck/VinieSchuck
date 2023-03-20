@@ -1,8 +1,8 @@
 # Olá sou o Vinicius 👋 
 
-- ⚡ Estou sempre buscando evoluir ⚡
-- ⚡ Estou procurando colaborações ⚡
-- ⚡ Meta atual: Conseguir uma vaga como dev jr ⚡
+-  Estou sempre buscando evoluir ⚡
+-  Estou procurando colaborações ⚡
+-  Meta atual: Conseguir uma vaga como dev jr ⚡
 
 
 
