@@ -1,21 +1,10 @@
-# Olá sou o Vinicius, e vou me tornar um frontend-developer 👋 
+# Olá sou o Vinicius 👋 
 
-- 💛 Estou sempre buscando evoluir 🤓
-- 🤎 Estou procurando colaborações 💡
-- 💛 Meta atual: Conseguir uma vaga como dev jr ⚡
+- ⚡ Estou sempre buscando evoluir ⚡
+- ⚡ Estou procurando colaborações ⚡
+- ⚡ Meta atual: Conseguir uma vaga como dev jr ⚡
 
-### Entre em contato comigo:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vinicius-schuck-16972222a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vinicius-schuck-16972222a/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vinieschuck#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vinieschuck#gh-dark-mode-only)
-
-### 🤎Linguaguens e Ferramentas🤎
+### ⚡Linguaguens e Ferramentas⚡
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -42,13 +31,5 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
